@@ -47,7 +47,9 @@
  - `box-sizing` : This property sets how the size of an element should be calculated,including or excluding padding and border.
  
  
- ##CSS Selectors:
+ ##CSS Selectors
+ 
+ 
   - `element`: Selects all elements with the given tag name.
   - `#id` : Selects the elements with the specific id attribute value
   - `element.class` : Selects all elements with the specific tag name and class attribute value.
@@ -58,7 +60,11 @@
 
 
 ##Extra 
+
+
 #Semantic tags
+
+
 -`Semantic tags` : Semantic tags, also known as semantic elements, are HTML tags that provide meaning to the structure and content of a web page. These tags are used to describe the type of content contained within them, making it easier for search engines and assistive technologies to understand the structure and purpose of the content.
 #some examples of Semantic tags include:
 - `<header>`: Used to indicate the header section of a web page, which typically contains the site title or logo, and main navigation.
