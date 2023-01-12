@@ -54,6 +54,21 @@
   - `element#id` : Selects the element with the specific tag name and id attribute value.
   - `:hover` : Selects the element when the user hovers over it with a mouse.
   - `:active` : Selects the elements when it is in the active state, such as when a button is being pressed.
+
+
+
+##Extra 
+#Semantic tags
+-`Semantic tags` : Semantic tags, also known as semantic elements, are HTML tags that provide meaning to the structure and content of a web page. These tags are used to describe the type of content contained within them, making it easier for search engines and assistive technologies to understand the structure and purpose of the content.
+#some examples of Semantic tags include:
+- `<header>`: Used to indicate the header section of a web page, which typically contains the site title or logo, and main navigation.
+- `<nav>`: used to indicate the section of a webpage that contains navigation links.
+- `<main>`: used to indicate the main content of a web page.
+- `<article>`: used to indicate a self-contained piece of content,such as a blog post or news story.
+- `<section>`: used to indicate a thematic grouping of content, such as a chapter or a specific topic within an article.
+- `<aside>`: used to indicate content that is related to the main content, but can be considered separate from it,such as a sidebar or a pull quote.
+- `<footer>`: used to indicate the footer section of a web page, which typically contains information such as copyright information, contact details, and links to related pages.
+
  
  
  
