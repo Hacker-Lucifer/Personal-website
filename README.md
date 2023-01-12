@@ -47,7 +47,7 @@
  - `box-sizing` : This property sets how the size of an element should be calculated,including or excluding padding and border.
  
  
- ##CSS Selectors
+##CSS Selectors
  
  
   - `element`: Selects all elements with the given tag name.
@@ -56,7 +56,6 @@
   - `element#id` : Selects the element with the specific tag name and id attribute value.
   - `:hover` : Selects the element when the user hovers over it with a mouse.
   - `:active` : Selects the elements when it is in the active state, such as when a button is being pressed.
-
 
 
 ##Extra 
