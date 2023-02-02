@@ -1,5 +1,9 @@
 ﻿# Personal-website
  
+ # you can download the index.html and style.css to checkout the personal website by our own. 
+ 
+ 
+ 
  # Here is all the elements used for personal-website development using HTML and CSS.
  
  ## HTML
